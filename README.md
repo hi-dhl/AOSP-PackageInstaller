@@ -2,7 +2,7 @@
 
 ## 前言
 
-注意：Android 10 及更高版本中, 相比于Android 9 及更低版本，PackageInstaller源码位置有所变动
+Android 10 及更高版本中, 相比于Android 9 及更低版本，PackageInstaller源码位置有所变动
 
 ## PackageInstaller源码所在位置
 

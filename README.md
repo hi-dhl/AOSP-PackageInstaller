@@ -10,9 +10,7 @@
 
 在 Android 9 及更低版本中，软件包安装和权限控制功能包含在 PackageInstaller 软件包 (//packages/apps/PackageInstaller) 中。在 Android 10 及更高版本中，权限控制功能位于单独的软件包 PermissionController (//packages/apps/PermissionController)，这两个软件包在 Android 10 中的位置如下图所示，更多信息点击这里前往[Android 权限](https://source.android.google.cn/devices/tech/config?hl=zh-cn)（需要科学上网）<br/>
 
-![](http://cdn.51git.cn/2020-02-25-15825131880109.jpg)
-
-<br/>
+![package-instal](http://cdn.51git.cn/2020-02-29-package-install.png)
 
 **Android 9 及更低版本中 ：**
 
